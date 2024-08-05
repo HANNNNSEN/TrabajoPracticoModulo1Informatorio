@@ -1,0 +1,68 @@
+{
+    "1": {
+        "n_venta": 1,
+        "producto": "Lavandina",
+        "cantidad": 2.0,
+        "precio": 1500.0,
+        "apellido_cliente": "Perez",
+        "nombre_cliente": "Toto",
+        "vendedor": "1",
+        "local": "1"
+    },
+    "2": {
+        "n_venta": 2,
+        "producto": "Arroz",
+        "cantidad": 10.0,
+        "precio": 355.0,
+        "apellido_cliente": "Mondino",
+        "nombre_cliente": "Carlos",
+        "vendedor": "1",
+        "local": "1",
+        "marca_tarjeta": "Visa",
+        "n_cuotas": 12
+    },
+    "3": {
+        "n_venta": 3,
+        "producto": "Fideos",
+        "cantidad": 5.0,
+        "precio": 245.0,
+        "apellido_cliente": "Arraid",
+        "nombre_cliente": "Salmos",
+        "vendedor": "1",
+        "local": "1",
+        "n_cuotas": 6
+    },
+    "4": {
+        "n_venta": 4,
+        "producto": "Picadillo",
+        "cantidad": 10.0,
+        "precio": 2500.0,
+        "apellido_cliente": "Gimenez",
+        "nombre_cliente": "Susana",
+        "vendedor": "2",
+        "local": "1"
+    },
+    "5": {
+        "n_venta": 5,
+        "producto": "Queso enbarra",
+        "cantidad": 1.0,
+        "precio": 8000.0,
+        "apellido_cliente": "Torres",
+        "nombre_cliente": "Gonzalo",
+        "vendedor": "2",
+        "local": "1",
+        "marca_tarjeta": "Mastercard",
+        "n_cuotas": 6
+    },
+    "6": {
+        "n_venta": 6,
+        "producto": "At\u00fan",
+        "cantidad": 12.0,
+        "precio": 3600.0,
+        "apellido_cliente": "Gonzales",
+        "nombre_cliente": "Marta",
+        "vendedor": "2",
+        "local": "1",
+        "n_cuotas": 2
+    }
+}
